@@ -53,6 +53,8 @@
 | **Total**                                   | **130h** |
 
 
+As part of an investigation into the feasibility of implementing a timeline at runtime, I created a sample project. In this sample, I successfully demonstrated the ability to save and load a Unity.Timeline.TimelineAsset with Activation Tracks at runtime within a WebGL player.
+
 ![Timeline With Activation Tracks][timeline_with_activation_tracks]
 
 
