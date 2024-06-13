@@ -14,7 +14,7 @@
 | 1.7 Signal Track                            | 3h       |
 | 1.8 Playable (Custom) Track                 | 3h       |
 | 1.9 TrackGroup                              | 3h       |
-| 1.10 Testing, Debugging                     | 8h       |
+| 1.10 Testing, Debugging                     | 9h       |
 | **User interface**                          |          |
 | 2.1 Timeline window, header controls        | 4h       |
 | 2.2 Tracks tree                             |          |
