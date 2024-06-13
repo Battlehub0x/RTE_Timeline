@@ -3,8 +3,7 @@
 
 | Task                                        | Estimate |
 |---------------------------------------------|----------|
-| **Timeline**                                |          |
-| 1. Save & Load Timeline asset at runtime    |          |
+| **Save & Load Timeline asset at runtime**   |          |
 | 1.1 Playable Director                       | 3h       |
 | 1.2 Timeline Asset                          | 3h       |
 | 1.3 Activation Track                        | 3h       |
